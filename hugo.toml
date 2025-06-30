@@ -1,6 +1,6 @@
 baseURL = 'https://portofolio-pajarbeuy.netlify.app'
 languageCode = 'en-us'
-title = 'Pajar | ML Engineer'
+title = 'Pajar'
 theme = 'hugo-coder'
 
 [params]
