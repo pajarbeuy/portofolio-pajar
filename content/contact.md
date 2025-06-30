@@ -2,6 +2,8 @@
 title: "Contact"
 ---
 
+If you are interested in me, you can contact me through this:
+
 **Email**: fajar@example.com  
 **LinkedIn**: [linkedin.com/in/pajar](https://www.linkedin.com/in/pajar-37421b296/)  
 **GitHub**: [github.com/pajarbeuy](https://github.com/pajarbeuy)  
