@@ -1,14 +1,15 @@
 ---
 title: "Prediksi Harga Rumah"
-Date: "2024-04-28"
+date: "2024-04-28"
 ---
 
-Model: Gradient Boost Regressor
-
-Dataset: Housing Price - Kaggle
-
-Akurasi: 52%
-
+Model: Gradient Boost Regressor  
+Dataset: Housing Price - Kaggle  
+Akurasi: 52%  
 Tools: Python, scikit-learn, pandas, flask
 
-[GitHub Repo](https://github.com/pajarbeuy)
+👉 [Lihat Proyek di GitHub](https://github.com/pajarbeuy)
+
+### Screenshot Hasil Prediksi
+
+![Hasil Prediksi](/images/house-pricing.png)

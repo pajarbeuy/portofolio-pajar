@@ -1,32 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pajar | ML Engineer</title>
+    <title>Pajar</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Pajar | ML Engineer</description>
+    <description>Recent content on Pajar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Gambar</title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Prediksi Harga Rumah</title>
+      <link>http://localhost:1313/projects/prediksi-harga-rumah/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/prediksi-harga-rumah/</guid>
+      <description>&lt;p&gt;Model: Gradient Boost Regressor&lt;br&gt;&#xA;Dataset: Housing Price - Kaggle&lt;br&gt;&#xA;Akurasi: 52%&lt;br&gt;&#xA;Tools: Python, scikit-learn, pandas, flask&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://github.com/pajarbeuy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lihat Proyek di GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;screenshot-hasil-prediksi&#34;&gt;&#xD;&#xA;  Screenshot Hasil Prediksi&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#screenshot-hasil-prediksi&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/house-pricing.png&#34; alt=&#34;Hasil Prediksi&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Pajar. I&amp;rsquo;m a Machine Learning enthusiast passionate about data-driven products. I build models, analyze data, and love clean code.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Pajar. I&amp;rsquo;m a Machine Learning enthusiast passionate about data-driven products. I build models, analyze data, and love clean code.&lt;/p&gt;&#xA;&lt;p&gt;I am a second-semester undergraduate student majoring in Information Systems, with a strong interest in Machine Learning and Data Science. Despite being early in my academic journey, I have already started exploring real-world applications of data and machine learning, and I am continuously building my technical and analytical skills.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:fajar@example.com&#34; &gt;fajar@example.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/pajar-37421b296/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/pajar&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pajarbeuy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/pajarbeuy&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;WhatsApp&lt;/strong&gt;: &lt;a href=&#34;https://wa.me/625138003594&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wa.me/6285138003594&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Prediksi Harga Rumah</title>
-      <link>http://localhost:1313/projects/prediksi-harga-rumah/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prediksi-harga-rumah/</guid>
-      <description>&lt;p&gt;Model: Gradient Boost Regressor&lt;/p&gt;&#xA;&lt;p&gt;Dataset: Housing Price - Kaggle&lt;/p&gt;&#xA;&lt;p&gt;Akurasi: 52%&lt;/p&gt;&#xA;&lt;p&gt;Tools: Python, scikit-learn, pandas, flask&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/pajarbeuy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you are interested in me, you can contact me through this:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:fajar@example.com&#34; &gt;fajar@example.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/pajar-37421b296/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/pajar&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pajarbeuy&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/pajarbeuy&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;WhatsApp&lt;/strong&gt;: &lt;a href=&#34;https://wa.me/625138003594&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wa.me/6285138003594&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
