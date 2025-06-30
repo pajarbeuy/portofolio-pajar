@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://portofolio-pajarbeuy.netlify.app'
 languageCode = 'en-us'
 title = 'Pajar | ML Engineer'
 theme = 'hugo-coder'
