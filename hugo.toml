@@ -1,0 +1,25 @@
+baseURL = 'http://localhost/'
+languageCode = 'en-us'
+title = 'Pajar | ML Engineer'
+theme = 'hugo-coder'
+
+[params]
+  author = "Pajar"
+  description = "Portfolio Machine Learning Engineer"
+  info = "ML Engineer"
+  avatarurl = "images/pajar.jpg" # bisa lo ganti nanti
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "projects/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 3
