@@ -8,7 +8,7 @@ Dataset: Housing Price - Kaggle
 Akurasi: 52%  
 Tools: Python, scikit-learn, pandas, flask
 
-👉 [Lihat Proyek di GitHub](https://github.com/pajarbeuy)
+[Lihat Proyek di GitHub](https://github.com/pajarbeuy)
 
 ### Screenshot Hasil Prediksi
 
