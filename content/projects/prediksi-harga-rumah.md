@@ -1,5 +1,5 @@
 ---
-title: "Prediksi Harga Rumah"
+title: "house pricing predict"
 date: "2024-04-28"
 ---
 
