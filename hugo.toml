@@ -6,7 +6,7 @@ theme = 'hugo-coder'
 [params]
   author = "Pajar"
   description = "Portfolio Machine Learning Engineer"
-  info = "ML Engineer"
+  info = ""
   avatarurl = "images/pajar.jpg" # bisa lo ganti nanti
 
 [[menu.main]]
